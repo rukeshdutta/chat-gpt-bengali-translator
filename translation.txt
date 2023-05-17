@@ -1,0 +1,3 @@
+I have created a translator app using Python.
+
+Bengali: আমি পাইথন ব্যবহার করে একটি অনুবাদক অ্যাপলিকেশন তৈরি করেছি।
